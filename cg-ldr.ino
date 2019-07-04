@@ -1,5 +1,6 @@
 /*
    Interfacing:
+   https://circuitdigest.com/microcontroller-projects/arduino-light-sensor-using-ldr
    https://arduinomylifeup.com/arduino-light-sensor
 
       PINOUT:
